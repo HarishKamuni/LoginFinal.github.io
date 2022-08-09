@@ -36,7 +36,7 @@ function login(){
     }
 
     else if(email==email1 && pass==pass1){
-        window.location.href="./coffee Lab/index.html";
+        window.location.href="index1.html";
     }else{
         alert("email or password incorrect");
     }
